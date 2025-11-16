@@ -14,4 +14,5 @@ func main() {
 	//最后推送到远程仓库 git push
 	fmt.Println("推送仓库")
 	fmt.Println("推送成功")
+	fmt.Println("test push")
 }
