@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
-
 func main() {
-	fmt.Printf("yuyang push test")
+	var str string
+	var num int
+	var dou float64
+	var flag bool
+	var ch byte
+
 }
